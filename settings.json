@@ -1,0 +1,64 @@
+    "workbench.colorCustomizations": {
+        "tab.activeBorder": "#09015f",
+        "panel.border": "#97979b00",
+        "terminalCursor.background": "#282a36",
+        "terminalCursor.foreground": "#97979b",
+        "terminal.selectionBackground": "#97979b33",
+        "terminal.foreground": "#09015f",
+        "terminal.ansiBlack": "#282a36",
+        "terminal.ansiRed": "#ff5c57",
+        "terminal.ansiGreen": "#478d8c",
+        "terminal.ansiYellow": "#585a43",
+        "terminal.ansiBlue": "#57c7ff",
+        "terminal.ansiMagenta": "#ff6ac1",
+        "terminal.ansiCyan": "#339bcf",
+        "terminal.ansiWhite": "#f1f1f0",
+        "terminal.ansiBrightBlack": "#686868",
+        "terminal.ansiBrightRed": "#ff5c57",
+        "terminal.ansiBrightGreen": "#57afae",
+        "terminal.ansiBrightYellow": "#d73a5f",
+        "terminal.ansiBrightBlue": "#57c7ff",
+        "terminal.ansiBrightMagenta": "#ff6ac1",
+        "terminal.ansiBrightCyan": "#4ba6b8",
+        "terminal.ansiBrightWhite": "#eff0eb"
+    },
+    "editor.overviewRulerBorder": false,
+    "editor.tokenColorCustomizations": {
+        "[Github Light Theme - Gray]": {
+            "textMateRules": [
+                {
+                    "scope": "comment",
+                    "settings": {
+                        "foreground": "#478d8c",
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": "string.quoted.single.php",
+                    "settings": {
+                        "foreground": "#af0069",
+                    }
+                },
+                {
+                    "scope": "entity.name.tag.html",
+                    "settings": {
+                        "foreground": "#af0069",
+                    }
+                },
+                {
+                    "scope": "variable.other.readwrite.js",
+                    "settings": {
+                        "foreground": "#09015f",
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope":"variable.other.php",
+                    "settings": {
+                        "foreground": "#09015f",
+                        "fontStyle": "bold"
+                    }
+                },
+            ]
+        }
+    }
